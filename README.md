@@ -8,4 +8,6 @@
 # Scenario 2
 1) Log in using locked out user
 2) Verify error message
+ 
+ 
  The test functions for both scenarios are stored in src/test/java/LoginTest.java. 
